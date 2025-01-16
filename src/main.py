@@ -7,6 +7,7 @@ Owen Ziegler
 Main driver program, which sets up the window and starts the game loop.
 '''
 import pygame
+import entity
 #constants
 WIDTH = 640
 HEIGHT = 480
